@@ -1,6 +1,6 @@
 ## Abhinav Sridhar
 
-Founding engineer at [All About City](https://allabout.city), a Singapore-based network of expat and city publications. Year 3 Data Science & AI at NTU, graduating 2028.
+Software Engineering Intern at [All About City](https://allabout.city), a Singapore-based network of expat and city publications. Year 3 Data Science & AI at NTU, graduating 2028.
 
 Since June 2026 I've been the only engineer on AAC's platform: a Next.js, Payload CMS and Postgres rebuild that replaced WordPress without the sites going down, and now serves [allabout.city](https://allabout.city) and [expat.guide](https://expat.guide) from one deployment. That repo is private; the write-up is on [my site](https://newworldinc.github.io).
 
